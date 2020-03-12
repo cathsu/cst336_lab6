@@ -4,9 +4,12 @@ body {
     text-align:center !important;
 }
 
-.flex-item {
-	width: 30%;
-	margin: 10px;
+#error {
+	color:red;
+}
+
+#planetImg {
+	width: 300px;
 }
 
 .navbar-inverse{
